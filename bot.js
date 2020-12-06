@@ -40,5 +40,5 @@ const magic8 = () => {
 };
 
 const outplayed = () => {
-    return "És um nabo/nabiça!";
+    return "Well Done!";
 };
